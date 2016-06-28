@@ -1,4 +1,4 @@
-# [scrollbar-width.js](https://github.com/olmokramer/scrollbar-width.js) 3.1.1
+# [scrollbar-width.js](https://github.com/olmokramer/scrollbar-width.js) 3.2.1
 
 scrollbar-width.js is a library for calculating the scrollbar size of a browser window. It is compatible with AMD, CommonJS and the standard browser environment.
 
@@ -22,21 +22,13 @@ require([
 Install with npm:
 
 ```
-npm install scrollbar-width
+npm install https://github.com/crvst/scrollbar-width.js
 ```
 
 Then require it and call the function:
 
 ```
 var scrollbarWidth = require("scrollbar-width")();
-```
-
-### Bower
-
-To install with Bower run:
-
-```
-bower install scrollbar-width.js
 ```
 
 ### Browser
